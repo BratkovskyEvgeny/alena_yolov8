@@ -1,0 +1,5 @@
+cli.log
+yolov8n.pt
+__pycache__
+runs
+data
